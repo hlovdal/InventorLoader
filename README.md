@@ -95,6 +95,7 @@ DXF files contains sometimes 3D-Solids. These are represented as SAT/SAB content
 The solids can be imported either using native of STEP conversion.
 
 ## History
+**1.4**    (2023-04-29): Replaced dxfgrabber by ezdxf
 **1.3**    (2021-03-09): Added support for Fusion360 files.  
 **1.2**    (2021-02-28): Added support for Inventor 2021 files.  
 **1.1**    (2020-05-04): Added importing of 3D-Solids from DXF files.  
